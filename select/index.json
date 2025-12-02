@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "狂おうぜ",
+  "base_artist": "宮下 遊",
+  "createdAt": "2025-12-02T15:44:52.639240Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "狂おうぜ",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_狂おうぜ_宮下_遊.txt"
+    }
+  ]
+}
